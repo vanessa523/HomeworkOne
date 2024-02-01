@@ -1,3 +1,3 @@
 # HomeworkOne
 
-This is my homework
+This is my Homework Repository
